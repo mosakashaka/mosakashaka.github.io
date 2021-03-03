@@ -14,6 +14,6 @@ function bootToc() {
 $(document).ready(function(){
     bootToc();
     $('#tree').ztree_toc({
-	    is_auto_number: true,is_expand_all:false
+	    is_auto_number: false,is_expand_all:false
     });
 });
