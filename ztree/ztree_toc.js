@@ -237,7 +237,7 @@ function factor(opts ,count,current) {
 		_zTree: null,
 		_headers: [],
 		_header_offsets: [],
-		_header_nodes: [{ id:1, pId:0, name:"Table of Content",open:true}],
+		_header_nodes: [{ id:1, pId:0, name:"目录",open:true}],
 		debug: true,
 		/*
 		 * 使用标题作为anchor
