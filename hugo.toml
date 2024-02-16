@@ -1,0 +1,4 @@
+baseURL = 'https://mosakashaka.github.io/'
+languageCode = 'zh-cn'
+title = 'Now Or Never'
+theme = 'ananke'
