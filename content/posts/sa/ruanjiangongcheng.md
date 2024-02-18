@@ -12,7 +12,7 @@ categories = ["系统分析师"]
 
 方法、工具、过程
 
-![软件开发生命周期](/static/images/sa/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
+![软件开发生命周期](/static/images/sa/软件生命周期.png)
 
 关键点：输出
 1. 系统规划：可行性研究报告，系统设计任务书
