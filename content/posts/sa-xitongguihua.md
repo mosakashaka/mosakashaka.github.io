@@ -1,7 +1,9 @@
 +++
-title = 'Sa Xitongguihua'
+title = '系统分析师-系统规划'
 date = 2024-02-16T21:38:40+08:00
 draft = false
+tags = ["系统规划","系统分析师"]
+categories = ["系统分析师"]
 +++
 
 ## 系统规划
